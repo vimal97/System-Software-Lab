@@ -1,0 +1,5 @@
+EX1	&A,&B
+MACRO	&A,&B
+LDA	&A
+STA	&B
+MEND
